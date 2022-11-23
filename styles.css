@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(101, 172, 142);
+    background-color: aqua;
 }
 body {
     color: rgb(0, 0, 0);
@@ -16,4 +16,8 @@ body {
    }
    .scale:hover {
     transform: scale(1.8); /* Увеличиваем масштаб */
+   }
+   .title1 {
+   font-size: 30px;
+   color: blue;
    }
